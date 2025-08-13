@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+python-docx
+PyMuPDF
+gspread
+google-auth
+openpyxl
+spacy
